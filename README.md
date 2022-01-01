@@ -1,0 +1,1 @@
+open root directory and pass url to install. like, host/domain/install.
